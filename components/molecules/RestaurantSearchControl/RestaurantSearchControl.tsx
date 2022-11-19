@@ -35,7 +35,7 @@ const RestaurantSearchControl = ({ className, handleData }) => {
     <div className="flex">
       <div className={`${className} flex w-80 gap-1`}>
         <select
-        id="type"
+          id="type"
           defaultValue={""}
           onChange={(event) => setSelection(event.target.value)}
           className="block w-full rounded-md border-gray-300 shadow-sm focus:border-orange-500 focus:ring-orange-500 sm:text-sm"
@@ -71,16 +71,16 @@ const RestaurantSearchControl = ({ className, handleData }) => {
           Limpiar
         </button>
       </div>
-      {session?.roleId === "2" && (
-        <div className="flex items-center ml-auto">
-          <button
-            type="button"
-            className="inline-flex items-center rounded-md border border-transparent bg-orange-600 px-4 py-2 text-sm font-medium text-white shadow-sm hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2"
-          >
-            Crear restaurante
-          </button>
-        </div>
-      )}
+      (
+      <div className="flex items-center ml-auto">
+        <button
+          type="button"
+          className="inline-flex items-center rounded-md border border-transparent bg-orange-600 px-4 py-2 text-sm font-medium text-white shadow-sm hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2"
+        >
+          Crear restaurante
+        </button>
+      </div>
+      )
     </div>
   );
 };
