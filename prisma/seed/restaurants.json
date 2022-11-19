@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+	"name": "POLLOS A LA BRASA MARIO EL POBLADO",
+    "phoneNumber": "203-913-8890",
+    "type": "JUNKFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },
+  {
+    "id": "2",
+	"name": "MONDONGOS RESTAURANTE",
+    "phoneNumber": "304-346-7676",
+    "type": "COLOMBIANFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },
+  {
+    "id": "3",
+	"name": "TAMALES EXQUISITOS",
+    "phoneNumber": "605-761-2786",
+    "type": "COLOMBIANFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },
+  {
+    "id": "4",
+	"name": "ASADOS LUCHOS GOURMET SAS",
+    "phoneNumber": "678-386-5609",
+    "type": "PERUVIANFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },
+  {
+    "id": "5",
+	"name": "COMIDA CHINA PEKIN",
+    "phoneNumber": "509-781-8656",
+    "type": "CHINAFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },
+  {
+    "id": "6",
+	"name": "AMERICAN BROSTER",
+    "phoneNumber": "678-779-8946",
+    "type": "DESSERTFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },{
+    "id": "7",
+	"name": "COCHON GRILL MEDELLIN",
+    "phoneNumber": "616-771-0593",
+    "type": "MEATFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },
+  {
+    "id": "8",
+	"name": "LA PAMPA PARRILLA ARGENTINA",
+    "phoneNumber": "910-588-8078",
+    "type": "MEATFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },
+  {
+    "id": "9",
+	"name": "TAL CUAL RESTAURANTE",
+    "phoneNumber": "435-862-6057",
+    "type": "VEGETARIANFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },{
+    "id": "10",
+	"name": "MANDINGAS",
+    "phoneNumber": "262-331-6203",
+    "type": "JUNKFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },{
+    "id": "11",
+	"name": "LOS PERROS DE DIEGO",
+    "phoneNumber": "315-760-4079",
+    "type": "JUNKFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  },{
+    "id": "12",
+	"name": "LOS VERDES",
+    "phoneNumber": "202-864-6634",
+    "type": "JUNKFOOD",
+    "userId": "clan71rab0000li4s86stinh8"
+  }
+]
