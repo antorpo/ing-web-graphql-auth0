@@ -71,7 +71,6 @@ const RestaurantSearchControl = ({ className, handleData }) => {
           Limpiar
         </button>
       </div>
-      (
       <div className="flex items-center ml-auto">
         <button
           type="button"
@@ -80,7 +79,6 @@ const RestaurantSearchControl = ({ className, handleData }) => {
           Crear restaurante
         </button>
       </div>
-      )
     </div>
   );
 };
