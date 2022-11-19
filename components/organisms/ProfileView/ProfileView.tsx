@@ -19,7 +19,7 @@ const ProfileView = () => {
         </div>
         <h2 className='text-center text-4xl font-bold'>{session?.user?.name}</h2>
         <h3 className='text-center text-2xl text-gray-400 mt-2'>{session?.user?.email}</h3>
-        <h4 className='text-center text-2xl font-semibold text-gray-600 mt-2'>{session?.roleId === '2' ? 'Administrador' : 'Cliente'}</h4>
+        <h4 className='text-center text-2xl font-semibold text-gray-600 mt-2'>Cliente</h4>
       </div>
     </div>
   );
